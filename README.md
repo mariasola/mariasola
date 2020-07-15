@@ -1,13 +1,13 @@
 # Hi, i'm María 👋
 
-##🔭 I’m currently working on:
-  *React Redux & Hooks
-##🌱 I’m currently learning:
-  *Docker
-  *To do better and more efficient front-end code
+## 🔭 I’m currently working on:
+  * React Redux & Hooks
+## 🌱 I’m currently learning:
+  * Docker
+  * To do better and more efficient front-end code
 
-##📫 How to reach me:
-  *mail: mariasolahornedo@gmail.com
+## 📫 How to reach me:
+  * **mail:** mariasolahornedo@gmail.com
 
 <!--
 **mariasola/mariasola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
