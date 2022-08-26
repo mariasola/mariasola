@@ -6,7 +6,7 @@
 </p>
 
 ## 🔭 I’m currently working on:
-<p align="left"><a href="https://github.com/BridgeforBillions"> <img src="https://avatars1.githubusercontent.com/u/14813247?s=200&v=4" width=100 > </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="left"><a href="https://github.com/Vizzuality"> <img src="https://avatars1.githubusercontent.com/u/14813247?s=200&v=4" width=100 > </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/mariasola/first-contributions"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariasola&repo=first-contributions" width=350> </a>
   
 ## ⚡ What I code with:
